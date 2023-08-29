@@ -1,0 +1,11 @@
+Title: Places
+----
+Date: 11.02.2012
+----
+Text: I have a hard time keeping the places I’ve been and the things I’ve seen straight. Sometimes I hurt myself trying to remember those details. I don’t like it when that happens. Luckily, the iPhone has a feature built into the camera to help me. It’s called Places.
+
+Not many people are aware of this, but every picture you take on your iPhone is (link: http://en.wikipedia.org/wiki/Geotagging text: geotagged using GPS to the location it was taken. This then allows you to browse your photos by the places they were taken. Genius!
+
+If you regularly take pictures with your iPhone, then go to the built-in Photos app and click the Places tab on the bottom right. A map will come up with pins marking locations pictures have been taken. Then you can select a location and see all the pictures taken at that location! It’s an amazing way of connecting pictures to places. We live in the future!
+
+(image: placesmap.png title: Screenshot of Apple's iOS Photo App)

@@ -1,0 +1,5 @@
+Title: Places
+----
+Text:
+
+<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1euz9mvmEVetuTxPG50F9gPVGmUjNizHMtfDnzK56&amp;viz=MAP&amp;h=false&amp;lat=38.51703177456495&amp;lng=-97.96510931718753&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=5&amp;hml=GEOCODABLE"></iframe>
